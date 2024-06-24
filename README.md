@@ -16,10 +16,6 @@ This refractored code web application allows the user to take notes, save them a
 
 ## Installation
 To install this application please install Node.js package, express and UUID through your coding application's CLI.
-[Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-[Express](	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-[Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-[insomnia](	https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 ## Usage
 As stated in the description, the deployed application allows the user to take notes and save them to the db.json for access at a later date. Download to access full documentation. 
