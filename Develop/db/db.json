@@ -1,6 +1,21 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "id": "6e1e8063-287e-440a-b32f-dec2a7b55fd5",
+    "title": "This is my note taker",
+    "text": "I am writing notes using the application I built"
+  },
+  {
+    "id": "0a08f428-378b-4650-8ce9-b3d21e2c329b",
+    "title": "Bailey's Note",
+    "text": "My Name is Bailey. I am testing out this note taking ability and the post/delete routes\n"
+  },
+  {
+    "id": "0e3e60f5-5ddb-4baa-9f8f-f65d7e65ebea",
+    "title": "Bailey's Note",
+    "text": "Here we are again, testing..."
+  }
 ]
